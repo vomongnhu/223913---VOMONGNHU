@@ -1,3 +1,3 @@
 Name: Vo Mong Nhu
 Interests: Coding, Design
-“Skills”: css, git
+“Skills”: css, git,c
